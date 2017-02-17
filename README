@@ -1,2 +1,8 @@
 Just a simple artillery game, to get me off to a better start with Phaser and
 Javascript game programming.
+Basics:
+Bowman gets 10 shots / round
+point is to hit target with 1 of the 10 shots
+run out of shots, game over
+hit target, continue game
+further rounds may have more targets, or 'fences' to shoot over
